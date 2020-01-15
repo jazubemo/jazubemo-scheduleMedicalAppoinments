@@ -41,6 +41,22 @@
         },
         {
             "id": "1",
+            "doctorId": "1601199400481",
+            "patientId": "1601199400471",
+            "Date": "20/01/2020",
+            "appoointmentTime": "14:00",
+            "duration": 1
+        },
+        {
+            "id": "1",
+            "doctorId": "1601199400481",
+            "patientId": "1601199400472",
+            "Date": "21/01/2020",
+            "appoointmentTime": "13:00",
+            "duration": 1
+        },
+        {
+            "id": "1",
             "doctorId": "1601199400482",
             "patientId": "1601199400471",
             "Date": "21/01/2020",
