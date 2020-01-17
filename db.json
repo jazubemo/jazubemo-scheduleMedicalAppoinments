@@ -1,13 +1,13 @@
 {
     "patients":[
         {
-            "identity": "1601199400471",
+            "patientID": "1601199400471",
             "name": "Jasmin",
             "lastname": "Benitez",
             "age": 25
         },
         {
-            "identity": "1601199400472",
+            "patientID": "1601199400472",
             "name": "Ana",
             "lastname": "Ramos",
             "age": 26
@@ -32,6 +32,7 @@
     ],
     "medicalAppoinments":[
         {
+            "id" : 1,
             "doctorId": "1601199400481",
             "patientId": "1601199400472",
             "Date": "2020-01-20",
@@ -39,6 +40,7 @@
             "duration": 1
         },
         {
+            "id" : 2,
             "doctorId": "1601199400481",
             "patientId": "1601199400471",
             "Date": "2020-01-20",
@@ -46,6 +48,7 @@
             "duration": 1
         },
         {
+            "id" : 3,
             "doctorId": "1601199400481",
             "patientId": "1601199400472",
             "Date": "2020-01-21",
@@ -53,6 +56,7 @@
             "duration": 1
         },
         {
+            "id" : 4,
             "doctorId": "1601199400482",
             "patientId": "1601199400471",
             "Date": "2020-01-21",
